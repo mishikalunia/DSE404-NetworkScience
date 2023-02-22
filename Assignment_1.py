@@ -1,5 +1,5 @@
 
-#counting the number of connected components in a network
+#Counting the number of connected components in a network.
 
 class Graph:
      
